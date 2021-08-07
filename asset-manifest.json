@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-db-app.github.io/static/css/main.e52b740b.chunk.css",
+    "main.js": "/movie-db-app.github.io/static/js/main.a48961ed.chunk.js",
+    "main.js.map": "/movie-db-app.github.io/static/js/main.a48961ed.chunk.js.map",
+    "runtime-main.js": "/movie-db-app.github.io/static/js/runtime-main.1646d970.js",
+    "runtime-main.js.map": "/movie-db-app.github.io/static/js/runtime-main.1646d970.js.map",
+    "static/css/2.da1eef19.chunk.css": "/movie-db-app.github.io/static/css/2.da1eef19.chunk.css",
+    "static/js/2.7059bda4.chunk.js": "/movie-db-app.github.io/static/js/2.7059bda4.chunk.js",
+    "static/js/2.7059bda4.chunk.js.map": "/movie-db-app.github.io/static/js/2.7059bda4.chunk.js.map",
+    "static/js/3.0b50ddcc.chunk.js": "/movie-db-app.github.io/static/js/3.0b50ddcc.chunk.js",
+    "static/js/3.0b50ddcc.chunk.js.map": "/movie-db-app.github.io/static/js/3.0b50ddcc.chunk.js.map",
+    "index.html": "/movie-db-app.github.io/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/movie-db-app.github.io/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.e52b740b.chunk.css.map": "/movie-db-app.github.io/static/css/main.e52b740b.chunk.css.map",
+    "static/js/2.7059bda4.chunk.js.LICENSE.txt": "/movie-db-app.github.io/static/js/2.7059bda4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1646d970.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.7059bda4.chunk.js",
+    "static/css/main.e52b740b.chunk.css",
+    "static/js/main.a48961ed.chunk.js"
+  ]
+}
